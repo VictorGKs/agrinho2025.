@@ -1,7 +1,7 @@
 🌱 Ciclo do Alimento - Agrinho 2025
 Um projeto educativo interativo que explora a fascinante jornada dos alimentos desde o plantio no campo até chegar à mesa das famílias, conectando o mundo rural e urbano através de uma experiência web envolvente.
 📋 Sobre o Projeto
-O Ciclo do Alimento é uma aplicação web educativa desenvolvida para o programa Agrinho 2024, com o objetivo de ensinar de forma visual e interativa sobre as etapas da produção alimentar e a importância da sustentabilidade no processo.
+O Ciclo do Alimento é uma aplicação web educativa desenvolvida para o programa Agrinho 2025, com o objetivo de ensinar de forma visual e interativa sobre as etapas da produção alimentar e a importância da sustentabilidade no processo.
 🎯 Objetivos
 
 Educar sobre as 6 etapas do ciclo alimentar
