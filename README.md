@@ -130,13 +130,6 @@ Explore cada etapa do ciclo clicando nos cards
 Teste seus conhecimentos no quiz
 
 
-Personalização:
-
-Modifique cores no arquivo style.css
-Adicione conteúdo educativo no index.html
-Inclua novas perguntas no quiz
-
-
 
 🤝 Contribuição
 Este projeto foi desenvolvido para fins educacionais. Sugestões de melhorias são bem-vindas:
